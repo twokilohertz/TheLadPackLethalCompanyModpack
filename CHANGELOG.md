@@ -1,3 +1,7 @@
+## 1.0.6
+
+- Updated More Emotes to 1.2.2
+
 ## 1.0.5
 
 - Added ShipClock to show the time of day when standing inside the ship
