@@ -1,3 +1,7 @@
+## 1.0.7
+
+- Update LateCompany to 1.0.9
+
 ## 1.0.6
 
 - Updated More Emotes to 1.2.2
