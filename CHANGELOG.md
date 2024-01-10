@@ -1,4 +1,4 @@
-## 1.0.7
+## 1.0.8
 
 - Updated MoreCompany to 1.7.4
 - Updated LateCompany to 1.0.10
