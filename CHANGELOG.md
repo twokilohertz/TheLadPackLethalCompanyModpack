@@ -1,6 +1,11 @@
 ## 1.0.7
 
-- Update LateCompany to 1.0.9
+- Updated MoreCompany to 1.7.4
+- Updated LateCompany to 1.0.10
+
+## 1.0.7
+
+- Updated LateCompany to 1.0.9
 
 ## 1.0.6
 
