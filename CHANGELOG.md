@@ -1,3 +1,7 @@
+## 1.0.9
+
+- Updated MoreEmotes to 1.3.2
+
 ## 1.0.8
 
 - Updated MoreCompany to 1.7.4
