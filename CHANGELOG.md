@@ -1,3 +1,11 @@
+## 1.1.0
+
+- Added Skinwalker mod
+
+## 1.0.10
+
+- Updated MoreEmotes to 1.3.3
+
 ## 1.0.9
 
 - Updated MoreEmotes to 1.3.2
