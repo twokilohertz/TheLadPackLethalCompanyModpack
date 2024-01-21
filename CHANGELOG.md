@@ -1,3 +1,8 @@
+## 1.2.0
+
+- Removed Skinwalker mod, not "quality-of-life"
+- Updated MoreCompany to 1.7.6
+
 ## 1.1.0
 
 - Added Skinwalker mod
